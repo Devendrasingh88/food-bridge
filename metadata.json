@@ -1,0 +1,6 @@
+{
+  "name": "FoodBridge – Food Waste Management & Rescue Platform",
+  "description": "Connecting restaurants, hotels, and event organizers with verified NGOs to rescue surplus food, eliminate waste, and feed communities with subscription logistics and corporate CSR sponsorships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
